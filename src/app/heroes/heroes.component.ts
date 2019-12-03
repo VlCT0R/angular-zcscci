@@ -10,8 +10,7 @@ export class HeroesComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    let x = 123;
-  }
+ }
 
 }
 
